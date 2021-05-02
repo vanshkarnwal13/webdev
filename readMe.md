@@ -87,12 +87,8 @@ Password: basf123
 </p>
 
 ## Contributors:
-1) [Ritik Kumar](https://github.com/iamr-kumar)
-2) [Muskan Agarwal](https://github.com/muskan278) 
-3) [Sahil Kaling](https://github.com/sahildotexe)
-4) [Vansh Karnwal](https://github.com/vanshkarnwal13)
-5) [Alin Verma](https://github.com/skychazer)
-6) [Ananyaa Gupta](https://github.com/Ananyaagupta)
+[Vansh Karnwal](https://github.com/vanshkarnwal13)
+
 
 <p align="center">
 	With ❤️ by BOTS.PY
